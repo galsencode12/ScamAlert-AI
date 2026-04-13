@@ -2,70 +2,70 @@
 
 ---
 
-[![Status](https://img.shields.io/badge/Status-En_développement-orange)]()
+[![Status](https://img.shields.io/badge/Status-In_Development-orange)]()
 [![Track](https://img.shields.io/badge/Track_02-Defend_the_Digital_Citizen-1A3A5C)]()
-[![Langues](https://img.shields.io/badge/Langues-Français_·_Wolof_·_English-2E75B6)]()
+[![Languages](https://img.shields.io/badge/Languages-French_·_Wolof_·_English-2E75B6)]()
 [![iSAFE](https://img.shields.io/badge/iSAFE-Hackathon_2026-E8A020)]()
 
 ---
 
-## 📊 Le Problème en Chiffres
+## 📊 The Problem by the Numbers
 
 ![Stats ScamAlert-IA](docs/images/stats.png)
 
-Le vecteur le plus dangereux et le **moins couvert localement** : les **clones vocaux par IA**.
-Des outils permettent aujourd'hui de copier fidèlement une voix à partir de **seulement 3 secondes d'audio**.
-Les arnaqueurs envoient des messages vocaux WhatsApp imitant un proche ou un agent Wave pour exiger un transfert urgent.
-La victime reconnaît la voix et transfère.
+The most dangerous and **least locally addressed** vector: **AI-generated voice clones**.
+Tools today can faithfully replicate a voice from as little as **3 seconds of audio**.
+Scammers send WhatsApp voice messages impersonating a loved one or a Wave agent to demand an urgent transfer.
+The victim recognizes the voice and sends the money.
 
-> **Aucune solution locale n'existe aujourd'hui pour contrer ce phénomène au Sénégal.**
-
----
-
-## 💡 La Solution
-
-**ScamAlert-IA** est un agent IA multimodal accessible via WhatsApp ou une application Android légère.
-L'utilisateur transfère un message vocal, un lien ou un texte suspect, ScamAlert-IA analyse en temps réel et répond **en français et en wolof**.
+> **No local solution currently exists to counter this phenomenon in Senegal.**
 
 ---
 
-## 🏗 Architecture Technique
+## 💡 The Solution
+
+**ScamAlert-IA** is a multimodal AI agent accessible via WhatsApp or a lightweight Android app.
+The user forwards a suspicious voice message, link, or text — ScamAlert-IA analyzes it in real time and responds **in French and in Wolof**.
+
+---
+
+## 🏗 Technical Architecture
 
 ![Architecture ScamAlert-IA](docs/images/architecture.png)
 
 ---
 
-## 🗺 UX Flow - Parcours Utilisateur
+## 🗺 UX Flow - User Journey
 
 ![UX Flow ScamAlert-IA](docs/images/uxflow.png)
 
 ---
 
-## 🌍 Impact & ODD
+## 🌍 Impact & SDGs
 
-![Impact ODD ScamAlert-IA](docs/images/impact.png)
-
----
-
-## ✨ Fonctionnalités Clés
-
-- 🎙 **Détection de clones vocaux** : Whisper + modèle ML fine-tuné sur données locales
-- 🔗 **Vérification de liens** : phishing Wave, Orange Money, portails gouvernementaux
-- 📝 **Analyse NLP** : patterns d'arnaque typiques au Sénégal
-- 🗣 **Multilingue** : alertes en français ET en wolof
-- 📚 **Éducation continue** : chaque détection = une leçon
-- 🤝 **Intelligence communautaire** : signalements anonymisés qui améliorent le modèle
+![Impact SDGs ScamAlert-IA](docs/images/impact.png)
 
 ---
 
-## 👥 L'Équipe
+## ✨ Key Features
 
-| Rôle | Membre |
+- 🎙 **Voice clone detection**: Whisper + ML model fine-tuned on local data
+- 🔗 **Link verification**: Wave, Orange Money, and government portal phishing
+- 📝 **NLP analysis**: scam patterns typical to Senegal
+- 🗣 **Multilingual**: alerts in both French AND Wolof
+- 📚 **Continuous education**: every detection = a lesson
+- 🤝 **Community intelligence**: anonymized reports that improve the model
+
+---
+
+## 👥 The Team
+
+| Role | Member |
 |------|--------|
-| Chef d'équipe | Mohamed COULIBALY |
-| Membre | Mariama NDIAYE |
+| Team Lead | Mohamed COULIBALY |
+| Member | Mariama NDIAYE |
 
-*Équipe d'étudiants-travailleurs en ingénierie - Dakar, Sénégal 🇸🇳*
+*A team of student-workers in engineering — Dakar, Senegal 🇸🇳*
 
 ---
 
@@ -80,6 +80,6 @@ python app.py
 
 ---
 
-*"Le numérique de demain sera sûr ou ne sera pas."*
+*"Tomorrow's digital world will be safe — or it won't exist."*
 
-**ScamAlert-IA | Dakar, Sénégal 🇸🇳 | iSAFE Hackathon 2026**
+**ScamAlert-IA | Dakar, Senegal 🇸🇳 | iSAFE Hackathon 2026**
