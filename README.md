@@ -25,7 +25,7 @@ The victim recognizes the voice and sends the money.
 ## 💡 The Solution
 
 **ScamAlert-IA** is a multimodal AI agent accessible via WhatsApp or a lightweight Android app.
-The user forwards a suspicious voice message, link, or text — ScamAlert-IA analyzes it in real time and responds **in French and in Wolof**.
+The user forwards a suspicious voice message, link, or text : ScamAlert-IA analyzes it in real time and responds **in French and in Wolof**.
 
 ---
 
@@ -65,7 +65,7 @@ The user forwards a suspicious voice message, link, or text — ScamAlert-IA ana
 | Team Lead | Mohamed COULIBALY |
 | Member | Mariama NDIAYE |
 
-*A team of student-workers in engineering — Dakar, Senegal 🇸🇳*
+*A team of student-workers in engineering - Dakar, Senegal 🇸🇳*
 
 ---
 
@@ -80,6 +80,6 @@ python app.py
 
 ---
 
-*"Tomorrow's digital world will be safe — or it won't exist."*
+*"Tomorrow's digital world will be safe - or it won't exist."*
 
 **ScamAlert-IA | Dakar, Senegal 🇸🇳 | iSAFE Hackathon 2026**
